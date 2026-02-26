@@ -1,0 +1,6 @@
+torch>=2.0.0
+TTS>=0.22.0
+gradio>=4.0.0
+numpy
+scipy
+soundfile
